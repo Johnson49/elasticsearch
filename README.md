@@ -1,6 +1,6 @@
-# Elasticsearch e nodeJS
+# Elasticsearch e TypeScript
 
-Desenvolvendo um buscador com nodeJS e Elasticsearch.
+Buscador com TypeScript e Elasticsearch.
 
 ## Começando
 
