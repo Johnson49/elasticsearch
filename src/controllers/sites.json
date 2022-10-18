@@ -1,0 +1,54 @@
+[
+ 
+        {
+            "link": "",
+            "titulo": "Desenvolvedor Microsoft | Microsoft Developer",
+            "descricao": "Qualquer plataforma. Suas linguagens. Suas ferramentas. Desenvolva soluções com os produtos e os serviços da Microsoft, tudo dentro dos seus próprios termos."
+        },
+        {
+            "link": "https://developer.microsoft.com › pt-br",
+            "titulo": "DESENVOLVEDOR - O que faz, formação, salários | Quero Bolsa",
+            "descricao": "O desenvolvedor é o profissional que escreve e cria softwares, que podem ser websites, programas de computadores pessoais ou empresariais, sistemas operacionais, redes sociais, aplicativos de celular e outros dispositivos, entre outras infinitas possibilidades. Seu trabalho envolve o entendimento, uso e aplicação de diferentes linguagens de programação, como html, java, c++, além da ..."
+        },
+        {
+            "link":"https://blog.orientu.com.br › profissoes › desenvolvedor",
+            "titulo": "Desenvolvedor: conheça tudo sobre a carreira do profissional! - Orie ...",
+            "descricao": "O desenvolvedor tem a função de criar soluções tecnológicas dentro de uma organização. Ele é responsável por desenvolver sistemas que simplifiquem grande parte dos processos organizacionais, como os realizados pelo setor comercial, administrativo ou financeiro. A atuação desse profissional é fundamental para os negócios."
+        },
+        {   
+            "link": "https://kenzie.com.br › blog › desenvolvedor-de-software",
+            "titulo": "Desenvolvedor de software: o que é, o que faz e quanto ganha? - Ken...",
+            "descricao": "A remuneração de um (a) desenvolvedor (a) de software depende, no Brasil, de fatores como: especialização, experiência profissional, região de atuação e conhecimentos específicos. Para os profissionais iniciantes, o salário médio é de R$ 2.000,00. Para os profissionais com mais experiência,este valor pode chegar a até R$ 14.000,00."
+        },
+        {   
+            "link":"https://desenvolvedor.io",
+            "titulo": "desenvolvedor.io | Cursos online de programação e tecnologia",
+            "descricao": "Aprenda a programar e desenvolver aplicações web, projetar arquiteturas robustas e completas utilizando tecnologias como .Net, Asp.Net Core, CSharp, Angular, JavaScript, TypeScript e etc. Cursos 100% alinhados com o mercado de trabalho para lhe oferecer um conhecimento real!"
+        },
+        {
+            "link":"https://www.totvs.com › blog › carreiras › desenvolvedor-full-stack",
+            "titulo": "Desenvolvedor full stack: o que faz, salário, habilidades - TOTVS",
+            "descricao": "Um desenvolvedor full stack é um desenvolvedor de software que tem a habilidade e experiência necessárias para desenvolver uma aplicação do começo ao fim, do banco de dados à interface do usuário. Além de desenvolver o front-end e o back-end de uma aplicação, um dev full stack também pode ser responsável pelo deploy da aplicação."
+        },
+        {
+            "link":"https://blog.revelo.com.br › desenvolvedor-programador-qual-contratar",
+            "titulo": "Desenvolvedor e programador: entenda as diferenças - Blog da Revelo",
+            "descricao": "Em poucas palavras, as diferenças básicas entre o desenvolvedor e programador é a abrangência do trabalho e o grau de responsabilidade no projeto. Pois ambos os profissionais são especialistas em códigos de programação. Entretanto, os desenvolvedores estão mais diretamente envolvidos no ciclo do projeto e os programadores em uma parte ..."
+        },
+        {
+            "link":"https://www.digitalhouse.com › br › blog › diferenca-de-programador-e-desenvolvedor",
+            "titulo": "Entenda a diferença entre programador e desenvolvedor - DigitalHo ...",
+            "descricao": "O desenvolvedor é um profissional que domina todo um projeto e as demandas do mercado, passando a desenvolver soluções e softwares, que podem ser: Ele(a) é o(a) profissional que vai encontrar, em meio a dor de seu público-alvo, uma solução, a qual, neste caso, seria via software. É importante saber que todo desenvolvedor é programador , mas nem todo programador é desenvolvedor."
+        },
+        {   
+            "link": "https://developer.microsoft.com › pt-BR › microsoft-365 › dev-program",
+            "titulo": "Developer Program | Microsoft 365 Dev Center",
+            "descricao": "Portal do Desenvolvedor pré-instalado para ajudá-lo a agilizar a criação do manifesto e do pacote de aplicativos do seu Teams, mais o editor de cartões e uma biblioteca de controle de reações. Dados de amostra da Estrutura do SharePoint - Escolha entre seis modelos de site que você pode instalar e avaliar como soluções personalizadas para sua organização (com um pré-instalado)."
+        },
+        {
+            "link": "https://br.jooble.org › vagas-de-emprego-desenvolvedor-de-aplicações-web › Santos,-SP",
+            "titulo": "Vagas de Desenvolvedor de aplicações web em Santos, SP (Urgente ..",
+            "descricao": "Vagas de emprego novas para Desenvolvedor de aplicações web em Santos, SP. Vagas de período integral, temporário ou meio período. Salário competitivo. E-mail com alerta de vagas. O modo grátis, rápido e eficaz para achar empregos entre 246.000+ vagas de emprego na região de Santos, SP e outras regiões do Brasil."
+        }
+   
+    ]
