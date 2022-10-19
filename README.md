@@ -1,6 +1,6 @@
 # Elasticsearch, Docker e TypeScript
 
-Buscador com TypeScript e Elasticsearch.
+Buscador com TypeScript, Docker e Elasticsearch.
 
 <br>
 
