@@ -1,4 +1,4 @@
-# Elasticsearch e TypeScript
+# Elasticsearch, Docker e TypeScript
 
 Buscador com TypeScript e Elasticsearch.
 
